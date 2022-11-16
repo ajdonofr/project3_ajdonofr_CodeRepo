@@ -4,7 +4,7 @@ Repository for files related to Project3 of CSE321, Fall 2022
 The traffic light, when triggered, will follow this sequence:
   1. Light1 starts as Green, Light2 starts as Red
   2. If motion sensor timer has not reached 0:
-    a. Light1 turns yellow at 0 seconds
+      a. Light1 turns yellow at 0 seconds
     b. Light1 turns red at 15 seconds
     c. Light2 turns green at 60 seconds
     d. Buzzer sounds at 60 seconds
